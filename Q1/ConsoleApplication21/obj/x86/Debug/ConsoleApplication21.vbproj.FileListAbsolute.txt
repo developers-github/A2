@@ -1,0 +1,8 @@
+c:\users\test\documents\visual studio 2010\Projects\ConsoleApplication21\bin\Debug\ConsoleApplication21.exe
+c:\users\test\documents\visual studio 2010\Projects\ConsoleApplication21\bin\Debug\ConsoleApplication21.pdb
+c:\users\test\documents\visual studio 2010\Projects\ConsoleApplication21\bin\Debug\ConsoleApplication21.xml
+c:\users\test\documents\visual studio 2010\Projects\ConsoleApplication21\obj\x86\Debug\ConsoleApplication21.Resources.resources
+c:\users\test\documents\visual studio 2010\Projects\ConsoleApplication21\obj\x86\Debug\ConsoleApplication21.vbproj.GenerateResource.Cache
+c:\users\test\documents\visual studio 2010\Projects\ConsoleApplication21\obj\x86\Debug\ConsoleApplication21.exe
+c:\users\test\documents\visual studio 2010\Projects\ConsoleApplication21\obj\x86\Debug\ConsoleApplication21.xml
+c:\users\test\documents\visual studio 2010\Projects\ConsoleApplication21\obj\x86\Debug\ConsoleApplication21.pdb
