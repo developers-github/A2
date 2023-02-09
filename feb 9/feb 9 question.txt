@@ -1,0 +1,12 @@
+write a program to calcuate the the electricity bill. The rates of electricity unit are as follows:
+. if the units cossumed are <=300, then the cost is Rs. 20 per unit.
+. if the units cossumed are >=300 and <=500, then the cost is Rs. 50 per unit.
+. if the units cossumed are <=500, then the cost is Rs. 150 per unit.
+. if the units cossumed are <=900, then the cost is Rs. 200 per unit.
+
+A line rent Rs 100 is also added of 15% extra if the bill exceeds Rs 5000.
+Calculate the total bill with all conditions given above.
+
+
+
+Learn "MustInhert" function; it is not in the book but in the marking scheme.
